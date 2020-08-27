@@ -46,7 +46,7 @@ footer a{
 /*----navigation----*/
 
 .name {
-    font-size: 3.25em;
+    font-size: 3.23em;
     margin: 0;
 }
 
@@ -72,8 +72,13 @@ a:hover {
 
 /*----images----*/
 
+.profile-img {
+    width: 70%;
+}
+
 .profile-img,
 .portfolio-imgs {
+ 
     margin-top: 50px;
 }
 
